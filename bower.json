@@ -1,0 +1,18 @@
+{
+  "name": "BackboneSMS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/timrourke/BackboneSMS",
+  "authors": [
+    "Tim Rourke <tim@timrourke.com>"
+  ],
+  "description": "Backbone SMS Application",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
